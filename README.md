@@ -34,4 +34,4 @@ PIXIE is a comprehensive platform that includes both a mobile app and a web app.
 - View Saved Definitions: Allows users to revisit and view the meanings of words they have previously saved during their reading sessions.
 
 ## Demo
-(https://www.figma.com/proto/4ud6IpdCK66jkpNYMCDmRT/SEP?type=design&node-id=2-11&t=rF2uvVPC7vOivjg7-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A11&mode=design)
+https://www.figma.com/proto/4ud6IpdCK66jkpNYMCDmRT/SEP?type=design&node-id=2-11&t=rF2uvVPC7vOivjg7-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A11&mode=design
